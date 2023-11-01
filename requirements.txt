@@ -1,0 +1,14 @@
+initialize==1.1.1
+lpsolvers==1.2.0
+mpmath==1.3.0
+numpy==1.26.1
+pandas==2.1.2
+PuLP==2.7.0
+python-dateutil==2.8.2
+pytz==2023.3.post1
+scipy==1.11.3
+simplex==0.0.2
+simpy==4.0.2
+six==1.16.0
+sympy==1.12
+tzdata==2023.3
